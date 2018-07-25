@@ -1,2 +1,2 @@
-# welcome-world
-A simple welcome application
+# arithmetic-perl
+A simple arithmetic application
